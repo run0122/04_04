@@ -4,6 +4,8 @@
 
 ![Image1](/YoneheeDev.png)
 
+이미지는 참조만 할 것.
+
 |Pin number|Name|Function|
 |---|:---:|---|
 |A0|가변저항|아날로그 입력|
