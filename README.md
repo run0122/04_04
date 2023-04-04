@@ -57,9 +57,9 @@ void loop() {
 
 이 때, 내가 만약 숫자1을 입력한다면 1을 바로 받는 것이 아니라 1에 대응하는 아스키 코드 값인 49를 받음.
 
-1에 대응하도록 작동하는 함수를 구현하고 싶다면
+이 값에 대응하도록 작동하는 함수를 구현하고 싶다면
 
-1) '1'을 사용하기
+1) '값 그 자체'를 사용하기
 ```
 if(incomingByte == '1'){
       digitalWrite(led, HIGH);
@@ -68,7 +68,7 @@ if(incomingByte == '1'){
       delay(500);
 }
 ```
-2) Serial.read()-'0' 을 사용해서 아스키 코드로 계산하기
-3) Serial.parseInt() 함수 사용하기
+2) incomingByte = Serial.read() - '0' 을 사용해서 아스키 코드로 계산하기
+3) int incomingByte = Serial.parseInt(); 함수 사용하기
 
 총 3가지 방법이 있다.
