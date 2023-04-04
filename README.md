@@ -2,7 +2,7 @@
 
 ## 1. 검증
 
-![Image1](/git_log.PNG)
+![Image1](/YoneheeDev.PNG)
 
 |Pin number|Name|Function|
 |---|:---:|---|
