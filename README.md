@@ -1,10 +1,8 @@
-# Devboard
+# 04_04
 
-## 1. 검증
+## 1. DevBoard
 
 ![Image1](/YoneheeDev.png)
-
-이미지는 참조만 할 것.
 
 |Pin number|Name|Function|
 |---|:---:|---|
