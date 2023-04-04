@@ -2,6 +2,8 @@
 
 ## 1. 검증
 
+![Image1](/git_log.PNG)
+
 |Pin number|Name|Function|
 |---|:---:|---|
 |A0|가변저항|아날로그 입력|
