@@ -7,6 +7,7 @@
 |Pin number|Name|Function|
 |---|:---:|---|
 |A0|가변저항|아날로그 입력|
+|6|Servo|서보 모터|
 |7|Button1|버튼 기능|
 |8|Button2|버튼 기능|
 |9|Piezo|소리|
