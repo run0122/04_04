@@ -7,6 +7,8 @@
 |Pin number|Name|Function|
 |---|:---:|---|
 |A0|가변저항|아날로그 입력|
+|4|초음파 센서|Trig|
+|5|초음파 센서|Echo|
 |6|Servo|서보 모터|
 |7|Button1|버튼 기능|
 |8|Button2|버튼 기능|
@@ -14,8 +16,6 @@
 |10|LED1|발광|
 |11|LED2|발광|
 |12|LED3|발광|
-|9|초음파 센서|Trig|
-|10|초음파 센서|Echo|
 
 ### LED 검증
 * Basics -> Blink 예제
