@@ -15,9 +15,9 @@
 |7|Button1|버튼 기능|
 |8|Button2|버튼 기능|
 |9|Piezo|소리|
-|10|LED1|발광|
-|11|LED2|발광|
-|12|LED3|발광|
+|10|LED1|발광(digital / analog)|
+|11|LED2|발광(digital / analog)|
+|12|LED3|발광(digital)|
 
 ### LED 검증
 * Basics -> Blink 예제
