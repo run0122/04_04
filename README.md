@@ -7,6 +7,8 @@
 |Pin number|Name|Function|
 |---|:---:|---|
 |A0|가변저항|아날로그 입력|
+|A1 or 2|조도센서|아날로그 or Digital|
+|3|IR 센서|라인 트레이서|
 |4|초음파 센서|Trig|
 |5|초음파 센서|Echo|
 |6|Servo|서보 모터|
